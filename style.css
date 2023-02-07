@@ -1,9 +1,6 @@
 body{
-    margin: 0;
-    padding: 0;
     background-color: rgb(83, 0, 161);
 }
-
 .search-box{
     position: absolute;
     top: 50%;
